@@ -1,3 +1,3 @@
 # Bricks-Breakers-2nd-School-Project
-The secound Final Project for school in NSI, made with Processing (Using Processing 3 on computer and Androoid APDE on mobile).
+The secound Final Project for highschool in NSI, made with Processing (Using Processing 3 on computer and Androoid APDE on mobile).
 It was an recommandation of my teacher, trying to make an mobile game using Processing, also playable on computer, I chosed to make an Bricks Breakers game for it's simplicity when programming in an new world, but ended up being really complicated due to some malfunctionning with the compatibility between computer and mobile sadly, the result was full of compatibility problems with no known solutions to that, but still was playbale in the end, and did all that I could do.
